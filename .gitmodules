@@ -1,0 +1,3 @@
+[submodule "user/open_book_jupyter"]
+	path = user/open_book_jupyter
+	url = https://github.com/NomadShen/open_book_jupyter.git
